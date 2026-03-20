@@ -1,4 +1,4 @@
 # dockerized-webapp-
 Automation and Version controlling
 <br>
-Author- Ankit Panchal
+Author- Ankit Panchal and others
